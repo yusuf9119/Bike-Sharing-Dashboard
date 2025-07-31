@@ -1,3 +1,9 @@
+## Power BI Pricing Analysis Project
+
+This project explores whether a bike-sharing service can increase its prices next year. Using SQL to dig into the data and Power BI to bring the insights to life, I analyzed customer behavior, usage trends, and financials to help make a clear recommendation.
+
+All the key files you need—like the Power BI dashboard and SQL queries—are included here.
+
 ### Workflow
 
 1. **Built a Database**  
